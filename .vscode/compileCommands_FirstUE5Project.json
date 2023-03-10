@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\Source\\FirstUE5Project\\FirstUE5Project.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_FirstUE5Project\\FirstUE5Project.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\Source\\FirstUE5Project\\FirstUE5Project.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_FirstUE5Project\\FirstUE5Project.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\Source\\FirstUE5Project\\FirstUE5Project.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_FirstUE5Project\\FirstUE5Project.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\Source\\FirstUE5Project\\MyActor.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_FirstUE5Project\\FirstUE5Project.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\Source\\FirstUE5Project\\MyActor.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_FirstUE5Project\\FirstUE5Project.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

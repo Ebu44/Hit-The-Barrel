@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "FirstUE5ProjectEditor Editor Win64 Development (FirstUE5Project)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_FirstUE5Project.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ebube\\Documents\\Unreal Projects\\FirstUE5Project\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
